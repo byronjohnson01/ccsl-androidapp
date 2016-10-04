@@ -1,0 +1,19 @@
+<resources>
+    <string name="ccsltime1">09:00 AM</string>
+    <string name="ccsltime2">11:00 AM</string>
+    <string name="ccsltime3">01:00 PM</string>
+    <string name="ccsltime4">03:00 PM</string>
+    <string name="app_name">CCSL Matches</string>
+    <string name="main_title">Fall 2016</string>
+    <string name="date">10/02/2016</string>
+    <string name="date_pick">Pick a Date</string>
+    <string-array name="country_arrays">
+        <item>Aug 21</item>
+        <item>Aug 28</item>
+        <item>Sept 11</item>
+        <item>Sept 18</item>
+        <item>Sept 25</item>
+        <item>Oct 2</item>
+        <item>Oct 9</item>
+      </string-array>
+</resources>
